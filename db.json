@@ -8,7 +8,7 @@
             "rating": 4.7,
             "stock": 10,
             "description": "Stylish UV protection sunglasses perfect for summer outings.",
-            "image": "http://localhost:3000/images/1.jpeg",
+            "image": "https://assign8jsonserver.onrender.com/images/1.jpeg",
             "category": "Accessories"
         },
         {
@@ -19,7 +19,7 @@
             "rating": 4.8,
             "stock": 25,
             "description": "Water-resistant, broad-spectrum sunscreen that hydrates and protects.",
-            "image": "http://localhost:3000/images/2.webp",
+            "image": "https://assign8jsonserver.onrender.com/images/2.webp",
             "category": "Skincare"
         },
         {
@@ -30,7 +30,7 @@
             "rating": 4.9,
             "stock": 15,
             "description": "Keep your drinks ice-cold all day long with this durable insulated flask.",
-            "image": "http://localhost:3000/images/3.jpg",
+            "image": "https://assign8jsonserver.onrender.com/images/3.jpg",
             "category": "Outdoor Gear"
         },
         {
@@ -41,7 +41,7 @@
             "rating": 4.6,
             "stock": 30,
             "description": "Super absorbent, sand-resistant microfiber towel ideal for the beach or pool.",
-            "image": "http://localhost:3000/images/4.jpg",
+            "image": "https://assign8jsonserver.onrender.com/images/4.jpg",
             "category": "Accessories"
         },
         {
@@ -52,7 +52,7 @@
             "rating": 4.5,
             "stock": 40,
             "description": "Rechargeable mini fan with misting function to keep you cool on the go.",
-            "image": "http://localhost:3000/images/5.webp",
+            "image": "https://assign8jsonserver.onrender.com/images/5.webp",
             "category": "Gadgets"
         },
         {
@@ -63,7 +63,7 @@
             "rating": 4.7,
             "stock": 12,
             "description": "Elegant and foldable straw hat that offers complete face and neck sun coverage.",
-            "image": "http://localhost:3000/images/6.jpg",
+            "image": "https://assign8jsonserver.onrender.com/images/6.jpg",
             "category": "Apparel"
         }
     ]
