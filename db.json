@@ -1,0 +1,70 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "UV Protection Sunglasses",
+            "brand": "SunShade",
+            "price": 15,
+            "rating": 4.7,
+            "stock": 10,
+            "description": "Stylish UV protection sunglasses perfect for summer outings.",
+            "image": "http://localhost:3000/images/1.jpeg",
+            "category": "Accessories"
+        },
+        {
+            "id": 2,
+            "name": "Ocean Breeze Sunscreen SPF 50",
+            "brand": "SolGuard",
+            "price": 18.5,
+            "rating": 4.8,
+            "stock": 25,
+            "description": "Water-resistant, broad-spectrum sunscreen that hydrates and protects.",
+            "image": "http://localhost:3000/images/2.webp",
+            "category": "Skincare"
+        },
+        {
+            "id": 3,
+            "name": "Insulated Hydro Flask 32oz",
+            "brand": "AquaChill",
+            "price": 35,
+            "rating": 4.9,
+            "stock": 15,
+            "description": "Keep your drinks ice-cold all day long with this durable insulated flask.",
+            "image": "http://localhost:3000/images/3.jpg",
+            "category": "Outdoor Gear"
+        },
+        {
+            "id": 4,
+            "name": "Quick-Dry Beach Towel",
+            "brand": "SandFree",
+            "price": 22,
+            "rating": 4.6,
+            "stock": 30,
+            "description": "Super absorbent, sand-resistant microfiber towel ideal for the beach or pool.",
+            "image": "http://localhost:3000/images/4.jpg",
+            "category": "Accessories"
+        },
+        {
+            "id": 5,
+            "name": "Portable Handheld Misting Fan",
+            "brand": "BreezeTech",
+            "price": 12.99,
+            "rating": 4.5,
+            "stock": 40,
+            "description": "Rechargeable mini fan with misting function to keep you cool on the go.",
+            "image": "http://localhost:3000/images/5.webp",
+            "category": "Gadgets"
+        },
+        {
+            "id": 6,
+            "name": "Foldable Wide-Brim Straw Hat",
+            "brand": "SummerVibe",
+            "price": 24.5,
+            "rating": 4.7,
+            "stock": 12,
+            "description": "Elegant and foldable straw hat that offers complete face and neck sun coverage.",
+            "image": "http://localhost:3000/images/6.jpg",
+            "category": "Apparel"
+        }
+    ]
+}
